@@ -12,7 +12,7 @@
 
 ## Usage
 
-1. Clone the repository: `git clone git@github.com:victorbenedict/odin-hashmap.git`
+1. [Clone the repository.](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
 2. Navigate to the project directory and install dependencies: `npm install`
 3. Run the tests: `npm test`
 
